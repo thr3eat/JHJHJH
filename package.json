@@ -1,0 +1,12 @@
+{
+  "name": "roblox-rank-api",
+  "version": "1.0.0",
+  "description": "Roblox Rütbe Yönetim API",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
